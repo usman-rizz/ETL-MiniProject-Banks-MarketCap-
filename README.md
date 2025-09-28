@@ -24,5 +24,5 @@ Perfect for **learning ETL concepts** and **showcasing data engineering skills**
 
 ## 🏗️ **ETL Pipeline Architecture**  
 
-![ETL Architecture](C:\Users\imad_\OneDrive\DataEngineering\ETL_with_Python\Img\architecture.png)
+![ETL Architecture](Img\architecture.jpg)
 
