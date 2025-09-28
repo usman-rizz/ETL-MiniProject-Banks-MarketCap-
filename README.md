@@ -23,7 +23,8 @@ Perfect for **learning ETL concepts** and **showcasing data engineering skills**
 ---
 
 ## 🏗️ **ETL Pipeline Architecture**  
-![ETL Architecture](https://raw.githubusercontent.com/USERNAME/REPO/main/Img/architecture.jpg)
+<img width="2249" height="755" alt="Screenshot 2025-09-28 234330" src="https://github.com/user-attachments/assets/6422f1c1-afd7-40ac-8380-e8c9bc4c39a7" />
+
 
 ![ETL Architecture](Img/architecture.jpg)
 
