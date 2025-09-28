@@ -24,7 +24,5 @@ Perfect for **learning ETL concepts** and **showcasing data engineering skills**
 
 ## 🏗️ **ETL Pipeline Architecture**  
 
-![ETL Architecture](https://i.ibb.co/m65cH2F/etl-architecture-mini.png)  
-*(Replace with your own diagram if needed)*  
+![ETL Architecture](Img\architecture.png)
 
-**Flow:**  
